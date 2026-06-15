@@ -1,4 +1,4 @@
-<img width="822" height="139" alt="image" src="https://github.com/user-attachments/assets/326cba7d-8f70-44f4-9440-b06ae5f7a5ba" />
+<img width="1645" height="274" alt="image" src="https://github.com/user-attachments/assets/dabff882-724a-41b4-9f74-4c1b71b5176b" />
 # Team Profile
 
 ## Team Name
